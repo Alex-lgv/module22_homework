@@ -1,0 +1,23 @@
+.btn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: cadetblue;
+  margin-left: 50px;
+}
+.eraseBtn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: #f55151;
+  margin-left: 10px;
+}
+.description {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.output {
+  margin: 40px 0 0 10px;
+}
+.geo {
+  margin: 40px 0 0 10px;
+}

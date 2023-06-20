@@ -1,0 +1,30 @@
+.btn {
+  margin-left: 20px;
+}
+
+.output {
+  width: 348px;
+  height: 150px;
+  border: 1px solid;
+  overflow-y: scroll;
+}
+
+.connection {
+  margin-top: 15px;
+}
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #4691f6;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
